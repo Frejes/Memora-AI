@@ -1,0 +1,40 @@
+# =========================
+# Environment files
+# =========================
+.env
+.env.local
+backend/.env
+frontend/.env.local
+
+# =========================
+# Python
+# =========================
+backend/.venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Node / Next.js
+# =========================
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# VS Code
+# =========================
+.vscode/
