@@ -238,28 +238,6 @@ What do you remember about me?
 - Resume Analysis
 - Full-stack AI Application
 
----
-
-# 📸 Screenshots
-
-### Landing Page
-
-_Add screenshot here_
-
----
-
-### Dashboard
-
-_Add screenshot here_
-
----
-
-### Knowledge Graph
-
-_Add screenshot here_
-
----
-
 # 🚀 Future Improvements
 
 - Chat history persistence
